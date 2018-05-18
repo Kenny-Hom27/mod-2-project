@@ -1,5 +1,5 @@
-# Flatiron Casino
->Welcome to Flatiron Casino, where you can practice playing Blackjack or Poker!
+# KeyStone Project
+>Welcome to KeyStone, where you can review your favorite architecture!
 
 Try it out! - https://casino-frontend.herokuapp.com/
 
@@ -13,17 +13,21 @@ bundle install
 
 ## How to Play!
 
-- Log In with a new/old Username/Password
+- Log in with a new/old Username/Password.
 
 ![login-image][login-image]
 
-- Select by either architecture name, artist name, city name, or type of style
+- Select by either architecture name, artist name, city name, or type of style.
 
 ![select-image][select-image]
 
 - Leave reviews on your favorite architectural pieces!
 
 ![review-image][review-image]
+
+- Looking for something not on the list? Feel free to add it!
+
+![create-image][create-image]
 
 ## Built With
 
@@ -45,3 +49,4 @@ bundle install
 [login-image]: ./screenshots/login.png
 [select-image]: ./screenshots/select.png
 [review-image]: ./screenshots/review.png
+[create-image]: ./screenshots/create.png
