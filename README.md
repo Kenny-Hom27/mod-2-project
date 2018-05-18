@@ -1,8 +1,6 @@
 # KeyStone Project
 >Welcome to KeyStone, where you can review your favorite architecture!
 
-Try it out! - https://casino-frontend.herokuapp.com/
-
 ## Installation
 
 OS X & Linux:
